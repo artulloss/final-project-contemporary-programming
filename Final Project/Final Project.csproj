@@ -8,6 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Controllers\FavoriteFood.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\MemberPetsController" />
+    <None Remove="Controllers\NewFile.txt" />
     <None Remove="Fa" />
     <None Remove="NewFile.txt" />
   </ItemGroup>

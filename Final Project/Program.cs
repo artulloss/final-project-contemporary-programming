@@ -1,4 +1,5 @@
-using Final_Project;
+﻿using Final_Project;
+using Final_Project.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
